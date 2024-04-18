@@ -3,6 +3,7 @@
 to get into it go to directory
 
 cuda\Scripts\activate
+cuda/bin/activate --> mac
 
 juptyer notebook
 
